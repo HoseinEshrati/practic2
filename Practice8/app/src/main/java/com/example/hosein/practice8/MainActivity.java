@@ -18,21 +18,21 @@ public class MainActivity extends AppCompatActivity {
 
 
         Button  noti =(Button)findViewById(R.id.notify);
-        Button  notno=(Button)findViewById(R.id.no);
+        Button  nonotiiifffff=(Button)findViewById(R.id.nonotiff);
 
         noti.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intentnoti = new Intent(MainActivity.this,Page2.class);
-                startActivity(intentnoti);
+                Intent intentnoti2222 = new Intent(MainActivity.this,Page2.class);
+                startActivity(intentnoti2222);
             }
         });
 
-        notno.setOnClickListener(new View.OnClickListener() {
+        nonotiiifffff.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intentno =new Intent(MainActivity.this,Page3.class);
-                startActivity(intentno);
+                Intent intentno1111 =new Intent(MainActivity.this,Page3.class);
+                startActivity(intentno1111);
             }
         });
 
