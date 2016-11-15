@@ -51,6 +51,7 @@ android:background="#C2C27E"
             android:layout_gravity="center"
             android:textColor="@android:color/white"
             android:background="@drawable/btn1"
+            android:id="@+id/notify"
             />
         <Button
 
@@ -61,6 +62,7 @@ android:background="#C2C27E"
             android:layout_gravity="center"
             android:textColor="@android:color/white"
             android:background="@drawable/line1"
+            android:id="@+id/no"
             />
     </LinearLayout>
 
