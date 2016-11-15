@@ -4,19 +4,45 @@
     android:id="@+id/activity_page3"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
+  android:background="@android:color/white"
     tools:context="com.example.hosein.practic7.Page3">
 
 
 
+       />
 
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Tbdbcvbvcbncvbcvbxbxc"
+        android:orientation="vertical"
+        >
 
-        />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:src="@drawable/welcom"
+            />
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:src="@drawable/welcom3"
+    />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+android:text="   My Language Is Android   "
+    android:layout_gravity="center_horizontal"
+    android:textStyle="bold"
+    android:textSize="25sp"
+        android:textColor="@android:color/holo_green_light"
+    android:background="@drawable/text"
+
+    />
+
+    </LinearLayout>
+
+
 </RelativeLayout>
