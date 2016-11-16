@@ -54,7 +54,7 @@ android:background="@drawable/bb"
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="No SMS?Check your email for the password reset email."
+        android:text="No SMS ?Check your email for the password reset email."
         android:layout_marginTop="15dp"
         android:textColor="@android:color/black"
         />
