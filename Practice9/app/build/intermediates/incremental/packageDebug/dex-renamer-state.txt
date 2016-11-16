@@ -1,0 +1,7 @@
+#Tue Nov 15 17:43:38 IRST 2016
+base.0=C\:\\Users\\Hosein\\Documents\\practic2\\Practice9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6c1ffb73ddc76295a62c0d03caefe22003957f4e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Hosein\\Documents\\practic2\\Practice9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_74b9f0b67e840f3603074aa6c91bbfe89f883c10\\classes.dex
+base.1=C\:\\Users\\Hosein\\Documents\\practic2\\Practice9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_74b9f0b67e840f3603074aa6c91bbfe89f883c10
+file.0=C\:\\Users\\Hosein\\Documents\\practic2\\Practice9\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6c1ffb73ddc76295a62c0d03caefe22003957f4e\\classes.dex

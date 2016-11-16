@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:background="#C2C27E"
+    tools:context="com.example.hosein.practice8.MainActivity"
+
+    >
+
+
+    <LinearLayout
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Turn On Notification ?"
+            android:layout_gravity="center"
+
+
+            />
+        <View
+            android:layout_marginTop="20dp"
+            android:layout_width="@android:dimen/thumbnail_height"
+            android:layout_height="2dp"
+            android:background="@android:color/white"
+            android:layout_gravity="center"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="We can let you know when someone  \n messagesyou, or notify you about other  \n important account activity"
+            android:textColor="@android:color/white"
+            android:layout_gravity="center"
+            />
+
+
+        <Button
+            android:layout_width="@android:dimen/thumbnail_height"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:text="  Yes, Notify Me  "
+            android:layout_marginTop="60dp"
+            android:layout_gravity="center"
+            android:textColor="@android:color/white"
+            android:background="@drawable/btn1"
+            android:id="@+id/notify"
+            />
+        <Button
+
+            android:layout_width="@android:dimen/thumbnail_height"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:text="No"
+            android:layout_marginTop="5dp"
+            android:layout_gravity="center"
+            android:textColor="@android:color/white"
+            android:background="@drawable/line1"
+            android:id="@+id/nonotiff"
+            />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

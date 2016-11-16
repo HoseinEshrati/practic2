@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_page3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  android:background="@android:color/white"
+    tools:context="com.example.hosein.practic7.Page3">
+
+
+
+       />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:src="@drawable/welcom"
+            />
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:src="@drawable/welcom3"
+    />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+android:text="   My Language Is Android   "
+    android:layout_gravity="center_horizontal"
+    android:textStyle="bold"
+    android:textSize="25sp"
+        android:textColor="@android:color/holo_green_light"
+    android:background="@drawable/text"
+
+    />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

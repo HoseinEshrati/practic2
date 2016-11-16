@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_page2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:background="@android:color/white"
+    tools:context="com.example.hosein.practice9new.Page2">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+android:padding="15dp"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:text="SMS Password Reset"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:text="Pleas enter the code you were SMS.it willlook something like 6 3 4 2. \n You my need to wait a few moments before it arrives.
+        "
+        android:layout_marginTop="15dp"
+        />
+
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="@android:dimen/app_icon_size"
+android:background="@drawable/ee"
+android:layout_marginTop="15dp"
+
+    />
+
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Reset my Password!"
+android:textColor="@android:color/white"
+android:background="@drawable/bb"
+    android:layout_marginTop="15dp"
+    />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No SMS?Check your email for the password reset email."
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/black"
+        />
+
+</LinearLayout>
+
+
+</RelativeLayout>

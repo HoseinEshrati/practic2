@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_3d36151d19b49a3973a46b13efa1f0069e463452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_059f5380f24e4a6b7c6d0b6053eee82e260b602d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_b7072302d47c4c4f91339de3662d9dce8b296dec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_73032d30d97f5fe52439777224d1a97e7a34f305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_585e26d48d3583b4dc3db944edf63d242930c77e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d9c207ef557441842257c5017703e0adda626bd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_c7b521593e8012458ecc46fdba197bc7870b3469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_adbefbd3130845c5bb8238a97047da2ffa85a4d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_a61cc7f8651368ea1a754ccc922776f605ffefac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_27297d134ccad2bd0f7a4934cdbd5cab7f172fa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cf369dd6e92140e403bdb8b41f0fd888bec89bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_5dfbe916a572f7fbd26a7486d6a4002daf7ffc24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_068d31cfb67d6eeab100aebc4fa590300c507120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5fc7d6907442a9fa31db2ab807ec2b26f2a102ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Hosein\Documents\practic2\Practice8\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_e67e9a91a4879cc670a26a0a95294e7279799f84.jar" />
+    </item>
+
+</items>
